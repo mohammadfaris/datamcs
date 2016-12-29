@@ -1,0 +1,35 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Login</title>
+    <link rel="stylesheet" href="stylesheets/themes/CaseMCC.min.css"/>
+    <link rel="stylesheet" href="stylesheets/themes/jquery.mobile.icons.min.css"/>
+    <link rel="stylesheet" href="stylesheets/jquery.mobile.structure-1.4.5.min.css"/>
+    <script src="javascripts/jquery-1.11.1.min.js"></script>
+    <script src="javascripts/jquery.mobile-1.4.5.min.js"></script>
+</head>
+<body>
+<div id="sign-in-page" data-role="page">
+
+    <div data-role="header">
+        <h1>Login</h1>
+    </div>
+    <nav data-role="navbar">
+        <ul>
+            <li><a href="/" class="ui-btn-active" data-ajax="false">Sign In</a></li>
+        </ul>
+    </nav>
+    <div data-role="content">
+        <form action="/doLogin" data-ajax="false" method="post">
+            <fieldset>
+                <input type="text" name="username" placeholder="Username"/>
+                <input type="password" name="password" placeholder="Password"/>
+                <input type="submit" value="Submit"/>
+                <a href="/auth/facebook" data-ajax="false">Sign in with facebook</a>
+            </fieldset>
+        </form>
+    </div>
+</div>
+</body>
+</html>

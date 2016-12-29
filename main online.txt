@@ -1,0 +1,1 @@
+kalau mau main online yang harus di matikan yaitu dinput8.dll dan ScriptHookv.dll

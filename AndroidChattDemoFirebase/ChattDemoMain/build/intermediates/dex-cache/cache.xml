@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\development\ChattDemoMain\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\development\ChattDemoMain\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_fe3f76813e044d292b9f999bed9bc38ebf45117f\classes.dex" />
+    </item>
+    <item
+        jar="C:\development\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="C:\development\ChattDemoMain\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.0_0361c1647f13cd7661d035e33bcaf1749eb4d57b\classes.dex" />
+    </item>
+    <item
+        jar="C:\development\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="C:\development\ChattDemoMain\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.0_e0bc829b8b2afeb7034246bd369c7e1d8c8f89ce\classes.dex" />
+    </item>
+    <item
+        jar="C:\development\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\development\ChattDemoMain\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_e887ce70c828dc9f931fe820ccd08c32596e4f15\classes.dex" />
+    </item>
+    <item
+        jar="C:\development\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="C:\development\ChattDemoMain\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.0_ca209f3deb22fca80eb5d48cfb0e66ccd4080d7d\classes.dex" />
+    </item>
+    <item
+        jar="C:\development\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\development\ChattDemoMain\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_ca72ee2e8879914429af26c0fc6c94a03fbf1ed1\classes.dex" />
+    </item>
+    <item
+        jar="C:\development\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\development\ChattDemoMain\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_371029201f1bcf3bb12e47a6d84bba2272757c2c\classes.dex" />
+    </item>
+    <item
+        jar="C:\development\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\development\ChattDemoMain\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_b7e717096b609c7766e579efb0295be897a69dab\classes.dex" />
+    </item>
+    <item
+        jar="C:\development\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="C:\development\ChattDemoMain\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.0_fdc151b20c5a0e139400930735f77d8c5a1d931a\classes.dex" />
+    </item>
+    <item
+        jar="C:\development\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\development\ChattDemoMain\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_b5880af455960df37d3551853f7c8634f512edca\classes.dex" />
+    </item>
+    <item
+        jar="C:\development\ChattDemoMain\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\development\ChattDemoMain\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_062276ea3959467c77929bb8fe720479c6eecbb7\classes.dex" />
+    </item>
+    <item
+        jar="C:\development\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\development\ChattDemoMain\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_5782642338125275eee2b98de84d6fb813155c4d\classes.dex" />
+    </item>
+    <item
+        jar="C:\development\ChattDemoMain\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ad4e2b3a35f67df596c1087048e1ae28a4f2d2f7">
+        <dex dex="C:\development\ChattDemoMain\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5115c7830e7e4d8eafcf15b515a3d638a9cdc854\classes.dex" />
+    </item>
+    <item
+        jar="C:\development\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\development\ChattDemoMain\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_230be16482fb594fc55b25978df06f2930c4efe5\classes.dex" />
+    </item>
+    <item
+        jar="C:\development\ChattDemoMain\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cb2d05e10e5b3ca22a5554cac8d256cb6ff42f93">
+        <dex dex="C:\development\ChattDemoMain\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_283d5434c5d0e57bd3b093facaa0a0841694eb11\classes.dex" />
+    </item>
+    <item
+        jar="C:\tools\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\development\ChattDemoMain\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_550b090612017527807b50a621214fa38a3c3cfb\classes.dex" />
+    </item>
+    <item
+        jar="C:\development\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="C:\development\ChattDemoMain\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.0_baa34f102a18488d327a4d5a1d99a343473b0a9b\classes.dex" />
+    </item>
+    <item
+        jar="C:\development\ChattDemoMain\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="C:\development\ChattDemoMain\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.0_dfc4d56ec09be477146e9eabe079779e3914c9a2\classes.dex" />
+    </item>
+
+</items>

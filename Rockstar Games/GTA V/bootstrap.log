@@ -1,0 +1,155 @@
+[2016-12-29 08:47:23.095] [ ERROR ] Sending request failed.
+[2016-12-29 08:47:23.095] [WARNING] Catch-all error.
+[2016-12-29 08:47:23.095] [ ERROR ] Error 0x2ee7: The server name or address could not be resolved
+
+[2016-12-29 08:47:23.095] [ ERROR ] Internet error 0: 
+[2016-12-29 08:47:23.095] [ ERROR ] Error occurred attempting to obtain info.
+[2016-12-29 08:47:23.095] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:23.095] [ ERROR ] * Setting error condition
+[2016-12-29 08:47:23.095] [ ERROR ] * Category:  2 (ERROR_CATEGORY_DOWNLOADER)
+[2016-12-29 08:47:23.095] [ ERROR ] * Code:     202 (DOWNLOADER_ERR_NO_CONNECTION)
+[2016-12-29 08:47:23.095] [ ERROR ] * Extra:     
+[2016-12-29 08:47:23.095] [ ERROR ] * Localised: The Rockstar update service is unavailable (code 202). Please try again later or check the GTA Online Status page for maintenance and outage notifications: https://support.rockstargames.com/hc/articles/200426246
+[2016-12-29 08:47:23.095] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:23.095] [DISPLAY] Increasing timeout value to 20000 milliseconds.
+[2016-12-29 08:47:24.126] [ ERROR ] Sending request failed.
+[2016-12-29 08:47:24.126] [WARNING] Catch-all error.
+[2016-12-29 08:47:24.126] [ ERROR ] Error 0x2ee7: The server name or address could not be resolved
+
+[2016-12-29 08:47:24.126] [ ERROR ] Internet error 0: 
+[2016-12-29 08:47:24.126] [ ERROR ] Error occurred attempting to obtain info.
+[2016-12-29 08:47:24.126] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:24.126] [ ERROR ] * Setting error condition
+[2016-12-29 08:47:24.126] [ ERROR ] * Category:  2 (ERROR_CATEGORY_DOWNLOADER)
+[2016-12-29 08:47:24.126] [ ERROR ] * Code:     202 (DOWNLOADER_ERR_NO_CONNECTION)
+[2016-12-29 08:47:24.126] [ ERROR ] * Extra:     
+[2016-12-29 08:47:24.126] [ ERROR ] * Localised: The Rockstar update service is unavailable (code 202). Please try again later or check the GTA Online Status page for maintenance and outage notifications: https://support.rockstargames.com/hc/articles/200426246
+[2016-12-29 08:47:24.126] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:24.126] [DISPLAY] Increasing timeout value to 30000 milliseconds.
+[2016-12-29 08:47:26.189] [ ERROR ] Sending request failed.
+[2016-12-29 08:47:26.189] [WARNING] Catch-all error.
+[2016-12-29 08:47:26.189] [ ERROR ] Error 0x2ee7: The server name or address could not be resolved
+
+[2016-12-29 08:47:26.189] [ ERROR ] Internet error 0: 
+[2016-12-29 08:47:26.189] [ ERROR ] Error occurred attempting to obtain info.
+[2016-12-29 08:47:26.189] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:26.189] [ ERROR ] * Setting error condition
+[2016-12-29 08:47:26.189] [ ERROR ] * Category:  2 (ERROR_CATEGORY_DOWNLOADER)
+[2016-12-29 08:47:26.189] [ ERROR ] * Code:     202 (DOWNLOADER_ERR_NO_CONNECTION)
+[2016-12-29 08:47:26.189] [ ERROR ] * Extra:     
+[2016-12-29 08:47:26.189] [ ERROR ] * Localised: The Rockstar update service is unavailable (code 202). Please try again later or check the GTA Online Status page for maintenance and outage notifications: https://support.rockstargames.com/hc/articles/200426246
+[2016-12-29 08:47:26.189] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:26.189] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:26.189] [ ERROR ] * Setting error condition
+[2016-12-29 08:47:26.189] [ ERROR ] * Category:  2 (ERROR_CATEGORY_DOWNLOADER)
+[2016-12-29 08:47:26.189] [ ERROR ] * Code:     202 (DOWNLOADER_ERR_NO_CONNECTION)
+[2016-12-29 08:47:26.189] [ ERROR ] * Extra:     
+[2016-12-29 08:47:26.189] [ ERROR ] * Localised: The Rockstar update service is unavailable (code 202). Please try again later or check the GTA Online Status page for maintenance and outage notifications: https://support.rockstargames.com/hc/articles/200426246
+[2016-12-29 08:47:26.189] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:26.189] [DISPLAY] Initializing downloader...
+[2016-12-29 08:47:26.189] [DISPLAY] Adding patch checks...
+[2016-12-29 08:47:26.189] [DISPLAY] Checking for updates...
+[2016-12-29 08:47:26.439] [DISPLAY] File version 10000:3b00002 (for C:\Program Files\Rockstar Games\Grand Theft Auto V\GTA5.exe)
+[2016-12-29 08:47:26.439] [ ERROR ] Sending request failed.
+[2016-12-29 08:47:26.439] [WARNING] Catch-all error.
+[2016-12-29 08:47:26.439] [ ERROR ] Error 0x2ee7: The server name or address could not be resolved
+
+[2016-12-29 08:47:26.439] [ ERROR ] Internet error 0: 
+[2016-12-29 08:47:26.439] [ ERROR ] Error occurred attempting to obtain info.
+[2016-12-29 08:47:26.439] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:26.439] [ ERROR ] * Setting error condition
+[2016-12-29 08:47:26.439] [ ERROR ] * Category:  2 (ERROR_CATEGORY_DOWNLOADER)
+[2016-12-29 08:47:26.439] [ ERROR ] * Code:     202 (DOWNLOADER_ERR_NO_CONNECTION)
+[2016-12-29 08:47:26.439] [ ERROR ] * Extra:     
+[2016-12-29 08:47:26.439] [ ERROR ] * Localised: The Rockstar update service is unavailable (code 202). Please try again later or check the GTA Online Status page for maintenance and outage notifications: https://support.rockstargames.com/hc/articles/200426246
+[2016-12-29 08:47:26.439] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:26.439] [DISPLAY] Increasing timeout value to 20000 milliseconds.
+[2016-12-29 08:47:27.470] [ ERROR ] Sending request failed.
+[2016-12-29 08:47:27.470] [WARNING] Catch-all error.
+[2016-12-29 08:47:27.470] [ ERROR ] Error 0x2ee7: The server name or address could not be resolved
+
+[2016-12-29 08:47:27.470] [ ERROR ] Internet error 0: 
+[2016-12-29 08:47:27.470] [ ERROR ] Error occurred attempting to obtain info.
+[2016-12-29 08:47:27.470] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:27.470] [ ERROR ] * Setting error condition
+[2016-12-29 08:47:27.470] [ ERROR ] * Category:  2 (ERROR_CATEGORY_DOWNLOADER)
+[2016-12-29 08:47:27.470] [ ERROR ] * Code:     202 (DOWNLOADER_ERR_NO_CONNECTION)
+[2016-12-29 08:47:27.470] [ ERROR ] * Extra:     
+[2016-12-29 08:47:27.470] [ ERROR ] * Localised: The Rockstar update service is unavailable (code 202). Please try again later or check the GTA Online Status page for maintenance and outage notifications: https://support.rockstargames.com/hc/articles/200426246
+[2016-12-29 08:47:27.470] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:27.470] [DISPLAY] Increasing timeout value to 30000 milliseconds.
+[2016-12-29 08:47:29.533] [ ERROR ] Sending request failed.
+[2016-12-29 08:47:29.533] [WARNING] Catch-all error.
+[2016-12-29 08:47:29.533] [ ERROR ] Error 0x2ee7: The server name or address could not be resolved
+
+[2016-12-29 08:47:29.533] [ ERROR ] Internet error 0: 
+[2016-12-29 08:47:29.533] [ ERROR ] Error occurred attempting to obtain info.
+[2016-12-29 08:47:29.533] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:29.533] [ ERROR ] * Setting error condition
+[2016-12-29 08:47:29.533] [ ERROR ] * Category:  2 (ERROR_CATEGORY_DOWNLOADER)
+[2016-12-29 08:47:29.533] [ ERROR ] * Code:     202 (DOWNLOADER_ERR_NO_CONNECTION)
+[2016-12-29 08:47:29.533] [ ERROR ] * Extra:     
+[2016-12-29 08:47:29.533] [ ERROR ] * Localised: The Rockstar update service is unavailable (code 202). Please try again later or check the GTA Online Status page for maintenance and outage notifications: https://support.rockstargames.com/hc/articles/200426246
+[2016-12-29 08:47:29.533] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:29.533] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:29.533] [ ERROR ] * Setting error condition
+[2016-12-29 08:47:29.533] [ ERROR ] * Category:  2 (ERROR_CATEGORY_DOWNLOADER)
+[2016-12-29 08:47:29.533] [ ERROR ] * Code:     212 (DOWNLOADER_ERR_DOWNLOAD_VERSIONING_FAILED)
+[2016-12-29 08:47:29.533] [ ERROR ] * Extra:     
+[2016-12-29 08:47:29.533] [ ERROR ] * Localised: The Rockstar update service is unavailable (code 212). Please try again later or check the GTA Online Status page for maintenance and outage notifications: https://support.rockstargames.com/hc/articles/200426246
+[2016-12-29 08:47:29.533] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:29.533] [ ERROR ] Can't get version info.
+[2016-12-29 08:47:29.533] [DISPLAY] File version 10000:3 (for C:\Program Files\Rockstar Games\Grand Theft Auto V\PlayGTAV.exe)
+[2016-12-29 08:47:29.533] [DISPLAY] File version 10000:3b00002 (for C:\Program Files\Rockstar Games\Grand Theft Auto V\GTA5.exe)
+[2016-12-29 08:47:29.533] [ ERROR ] Sending request failed.
+[2016-12-29 08:47:29.533] [WARNING] Catch-all error.
+[2016-12-29 08:47:29.533] [ ERROR ] Error 0x2ee7: The server name or address could not be resolved
+
+[2016-12-29 08:47:29.533] [ ERROR ] Internet error 0: 
+[2016-12-29 08:47:29.533] [ ERROR ] Error occurred attempting to obtain info.
+[2016-12-29 08:47:29.533] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:29.533] [ ERROR ] * Setting error condition
+[2016-12-29 08:47:29.533] [ ERROR ] * Category:  2 (ERROR_CATEGORY_DOWNLOADER)
+[2016-12-29 08:47:29.533] [ ERROR ] * Code:     202 (DOWNLOADER_ERR_NO_CONNECTION)
+[2016-12-29 08:47:29.533] [ ERROR ] * Extra:     
+[2016-12-29 08:47:29.533] [ ERROR ] * Localised: The Rockstar update service is unavailable (code 202). Please try again later or check the GTA Online Status page for maintenance and outage notifications: https://support.rockstargames.com/hc/articles/200426246
+[2016-12-29 08:47:29.533] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:29.533] [DISPLAY] Increasing timeout value to 20000 milliseconds.
+[2016-12-29 08:47:30.564] [ ERROR ] Sending request failed.
+[2016-12-29 08:47:30.564] [WARNING] Catch-all error.
+[2016-12-29 08:47:30.564] [ ERROR ] Error 0x2ee7: The server name or address could not be resolved
+
+[2016-12-29 08:47:30.564] [ ERROR ] Internet error 0: 
+[2016-12-29 08:47:30.564] [ ERROR ] Error occurred attempting to obtain info.
+[2016-12-29 08:47:30.564] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:30.564] [ ERROR ] * Setting error condition
+[2016-12-29 08:47:30.564] [ ERROR ] * Category:  2 (ERROR_CATEGORY_DOWNLOADER)
+[2016-12-29 08:47:30.564] [ ERROR ] * Code:     202 (DOWNLOADER_ERR_NO_CONNECTION)
+[2016-12-29 08:47:30.564] [ ERROR ] * Extra:     
+[2016-12-29 08:47:30.564] [ ERROR ] * Localised: The Rockstar update service is unavailable (code 202). Please try again later or check the GTA Online Status page for maintenance and outage notifications: https://support.rockstargames.com/hc/articles/200426246
+[2016-12-29 08:47:30.564] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:30.564] [DISPLAY] Increasing timeout value to 30000 milliseconds.
+[2016-12-29 08:47:32.626] [ ERROR ] Sending request failed.
+[2016-12-29 08:47:32.626] [WARNING] Catch-all error.
+[2016-12-29 08:47:32.626] [ ERROR ] Error 0x2ee7: The server name or address could not be resolved
+
+[2016-12-29 08:47:32.626] [ ERROR ] Internet error 0: 
+[2016-12-29 08:47:32.626] [ ERROR ] Error occurred attempting to obtain info.
+[2016-12-29 08:47:32.626] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:32.626] [ ERROR ] * Setting error condition
+[2016-12-29 08:47:32.626] [ ERROR ] * Category:  2 (ERROR_CATEGORY_DOWNLOADER)
+[2016-12-29 08:47:32.626] [ ERROR ] * Code:     202 (DOWNLOADER_ERR_NO_CONNECTION)
+[2016-12-29 08:47:32.626] [ ERROR ] * Extra:     
+[2016-12-29 08:47:32.626] [ ERROR ] * Localised: The Rockstar update service is unavailable (code 202). Please try again later or check the GTA Online Status page for maintenance and outage notifications: https://support.rockstargames.com/hc/articles/200426246
+[2016-12-29 08:47:32.626] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:32.626] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:32.626] [ ERROR ] * Setting error condition
+[2016-12-29 08:47:32.626] [ ERROR ] * Category:  2 (ERROR_CATEGORY_DOWNLOADER)
+[2016-12-29 08:47:32.626] [ ERROR ] * Code:     212 (DOWNLOADER_ERR_DOWNLOAD_VERSIONING_FAILED)
+[2016-12-29 08:47:32.626] [ ERROR ] * Extra:     
+[2016-12-29 08:47:32.626] [ ERROR ] * Localised: The Rockstar update service is unavailable (code 212). Please try again later or check the GTA Online Status page for maintenance and outage notifications: https://support.rockstargames.com/hc/articles/200426246
+[2016-12-29 08:47:32.626] [ ERROR ] ************************************************************************
+[2016-12-29 08:47:32.626] [ ERROR ] Can't get version info.
+[2016-12-29 08:47:33.017] [DISPLAY] File version 10000:3b00002 (for C:\Program Files\Rockstar Games\Grand Theft Auto V\GTAVLauncher.exe)
+[2016-12-29 08:47:33.017] [DISPLAY] Shutting down downloader...
+[2016-12-29 08:47:33.017] [DISPLAY] Launcher path: C:\Program Files\Rockstar Games\Grand Theft Auto V\GTAVLauncher.exe

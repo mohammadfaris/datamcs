@@ -1,0 +1,30 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>cake shop</title>
+	<link rel="stylesheet" href="themes/cakeshop.min.css" />
+	<link rel="stylesheet" href="themes/jquery.mobile.icons.min.css" />
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile.structure-1.4.5.min.css" />
+	<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+	<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+</head>
+<body>
+	<div id="login-page" data-role="page">
+
+    <div data-role="header">
+        <h1>Login</h1>
+    </div>
+    <div data-role="content">
+        <form action="/doLogin" data-ajax="false" method="post">
+            <fieldset>
+                <input type="email" name="email"
+                placeholder="email"/>
+                <input type="password" name="password" placeholder="Password"/>
+                <input type="submit" value="Submit"/>
+            </fieldset>
+        </form>
+    </div>
+</div>
+</body>
+</html>

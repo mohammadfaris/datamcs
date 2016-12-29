@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:paddingBottom="20dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingTop="20dp"
+    tools:context="com.example.user.HOBIA2.MainActivity"
+    android:weightSum="1"
+    android:text="W">
+
+    <TextView
+        android:layout_width="203dp"
+        android:layout_height="255dp"
+        android:id="@+id/textView2"
+        android:textAppearance="@android:style/TextAppearance.Material.WindowTitle"
+        android:text="Hobia is an E-commerce company which sells the Sport and Music equipment. and get big promo" />
+
+</LinearLayout>

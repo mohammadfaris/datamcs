@@ -1,0 +1,7 @@
+#Mon Dec 19 06:53:04 PST 2016
+base.0=C\:\\Users\\lenovo\\Documents\\android\\ChatAppsdemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_df9f163218775f2a9e5f5aef82c3c2bfe0da800f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\lenovo\\Documents\\android\\ChatAppsdemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2e5eb06c30096dfec604fe0d911323beef8cc9e5\\classes.dex
+base.1=C\:\\Users\\lenovo\\Documents\\android\\ChatAppsdemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2e5eb06c30096dfec604fe0d911323beef8cc9e5
+file.0=C\:\\Users\\lenovo\\Documents\\android\\ChatAppsdemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_df9f163218775f2a9e5f5aef82c3c2bfe0da800f\\classes.dex

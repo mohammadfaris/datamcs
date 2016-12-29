@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\Documents\android\ChatAppsdemo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e348c92d4c54f158ca3d78fc4041a1b2480a119e">
+        <dex dex="C:\Users\lenovo\Documents\android\ChatAppsdemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2e5eb06c30096dfec604fe0d911323beef8cc9e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\Documents\android\ChatAppsdemo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="67b1e063c761b6908500878289799f06ee79eab4">
+        <dex dex="C:\Users\lenovo\Documents\android\ChatAppsdemo1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_df9f163218775f2a9e5f5aef82c3c2bfe0da800f\classes.dex" />
+    </item>
+
+</items>
